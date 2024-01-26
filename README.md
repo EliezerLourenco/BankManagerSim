@@ -31,11 +31,11 @@ Run the main application:
 java Runner
 ```
 
-Usage
+## Usage
 The application will guide you through the available operations you can perform. Follow the on-screen prompts to interact with the banking system.
 
-Contributing
+## Contributing
 Contributions to the BankOpsDemo project are welcome. Please ensure to update tests as appropriate.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
