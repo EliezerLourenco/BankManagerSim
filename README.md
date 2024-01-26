@@ -15,13 +15,13 @@ This project, **BankManagerSim**, is a Java-based simulation that demonstrates t
 To run this project, you will need to have Java and JDK installed on your machine. Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/BankOpsDemo.git
+git clone https://github.com/yourusername/BankManagerSim.git
 ```
 
 Navigate to the directory where you cloned the project and compile the Java files:
 
 ```
-cd BankOpsDemo
+cd BankManagerSim
 javac *.java
 ```
 
