@@ -1,6 +1,6 @@
-# BankOpsDemo
+# BankManagerSim
 
-This project, **BankOpsDemo**, is a Java-based simulation that demonstrates the core functionalities of a banking system. It provides a basic framework for managing bank accounts, including creating, viewing, editing, and deleting account information. The project is designed as a showcase of object-oriented programming principles and Java development skills.
+This project, **BankManagerSim**, is a Java-based simulation that demonstrates the core functionalities of a banking system. It provides a basic framework for managing bank accounts, including creating, viewing, editing, and deleting account information. The project is designed as a showcase of object-oriented programming principles and Java development skills.
 
 ## Features
 
